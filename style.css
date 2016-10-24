@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+#caption {
+    text-align: center;
+}
+
+#slide{
+    display: block;
+    max-width: 500px;
+    margin: 10px auto;
+    cursor: pointer;
+}
+
+#slides{
+    display: none;
+    text-align: center;
+}
